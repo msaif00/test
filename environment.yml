@@ -1,0 +1,6 @@
+name: py35
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+prefix: C:\Users\maris\anaconda3\envs\py35
